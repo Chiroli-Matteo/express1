@@ -1,0 +1,33 @@
+{
+  "profiles": [
+    {
+      "firstname": "LeBron",
+      "lastname": "James",
+      "bio": "è un cestista statunitense, professionista nella NBA con i Los Angeles Lakers. Conosciuto anche come KING James",        
+      "tagline": "Cestita",
+      "stats": "https://www.espn.com/nba/player/stats/_/id/1966/lebron-james",
+      "imgSrc": "styles/images/Bron.jpeg",
+      "id": "bron"
+    },
+ 
+    {
+      "firstname": "Eldrick Tont",
+      "lastname": "Woods",
+      "bio": "è un golfista statunitense. Considerato da molti il miglior golfista di tutti i tempi",
+      "tagline": "Golfista",
+      "stats": "https://www.espn.com/golf/player/_/id/462/tiger-woods",
+      "imgSrc": "styles/images/woods.jpeg",
+      "id": "woods"
+    },
+ 
+    {
+      "firstname": "Tupac Amaru",
+      "lastname": "Shakur",
+      "bio": "è stato un rapper, attivista, attore e cantautore statunitense",
+      "tagline": "Rapper",
+      "spotify": "https://open.spotify.com/intl-it/artist/1ZwdS5xdxEREPySFridCfh?si=qqDriZdwQO-mIsjAQ6WuSQ",
+      "imgSrc": "styles/images/Pac.jpeg",
+      "id": "pac"
+    }
+  ]
+ }
